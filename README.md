@@ -6,8 +6,20 @@ The application can be used to provide users with current weather conditions suc
 There will also be a platform which will help[ with usere interface and experience.
 Which will also deliver a visually appealing and user friendly interface to show weather information in an easy and understyandable format.
 Pseudocode:
+
 class MainActivity : AppCompatActivity
 {
+
     // ViewModel:
+    
     var weatherViewModel: WeatherViewModel
-    var 
+    
+    var adapter: WeatherAdapter
+
+    funtion
+
+    onCreate(savedInstanceState: Bundle) {
+
+    super.oncreate(savedInstanceState)
+
+    
