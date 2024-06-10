@@ -56,3 +56,7 @@ class MainActivity : AppCompatActivity
 ![Cap](https://github.com/Mutanganedzw/IMAD-PRACTICUM/assets/166540448/046e77ed-5ab5-45fa-8c9c-fcd1c8b34bc6)
     
 ![Captu](https://github.com/Mutanganedzw/IMAD-PRACTICUM/assets/166540448/1c1ca7c4-835d-4c83-8bc5-7af285e6f465)
+
+![JV](https://github.com/Mutanganedzw/IMAD-PRACTICUM/assets/166540448/666c599e-c587-48c5-8e99-b4fe9296dfba)
+
+![HTZ](https://github.com/Mutanganedzw/IMAD-PRACTICUM/assets/166540448/e0c592e1-b772-4832-8998-00c008d2fe70)
